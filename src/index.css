@@ -1,0 +1,41 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.card {
+  margin: 10px;
+  border: 3px solid #000;
+  width: 25%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.avatar {
+  width: 100px;
+}
+
+.intro {
+  padding: 10px;
+}
+
+.intro h1 {
+  margin: 10px 0px;
+}
+
+.Pskill {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.divskill {
+  display: flex;
+  margin: 3px;
+  border-radius: 3px;
+}
+
+.skill {
+  padding: 10px;
+}
